@@ -1,4 +1,4 @@
-# scantailor-custom
+# scantailor-custom-osx
 # reference scantailor-advanced-osx
 Homebrew formula and App bundler for Scantailor (custom)
 
